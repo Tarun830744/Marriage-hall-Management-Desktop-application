@@ -1,0 +1,34 @@
+			  WELCOME TO MARRIAGE HALL
+
+	 Booking ID			 :		205328
+
+	 Customer No			 :		7440744369
+
+	 Customer Name			 :		Tarun choudhary
+
+************************************************************************
+			Booking and Payment Details
+************************************************************************
+
+	 Booking Date			 :		11/29/21
+
+	 Function Time			 :		Day
+
+	 Hall Name			 :		B1
+
+	 Hall Limit			 :		500
+
+	 Cooling Type			 :		AC
+
+	 Hall Price			 :		500000
+
+	Cooling Charge			 :		10000
+
+	 GST      			 :		91800.0
+
+	 Total Amount			 :		601800.0
+
+	 Paid Amount			 :		200000
+
+************************************************************************
+	 Total Due			 :		401800.0

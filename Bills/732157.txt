@@ -1,0 +1,34 @@
+			  WELCOME TO MARRIAGE HALL
+
+	 Booking ID			 :		732157
+
+	 Customer No			 :		7440744369
+
+	 Customer Name			 :		Tarun
+
+************************************************************************
+			Booking and Payment Details
+************************************************************************
+
+	 Booking Date			 :		11/23/21
+
+	 Function Time			 :		Day
+
+	 Hall Name			 :		B2
+
+	 Hall Limit			 :		100
+
+	 Cooling Type			 :		Non AC
+
+	 Hall Price			 :		100000
+
+	Cooling Charge			 :		2000
+
+	 GST      			 :		18360.0
+
+	 Total Amount			 :		120360.0
+
+	 Paid Amount			 :		5000
+
+************************************************************************
+	 Total Due			 :		115360.0

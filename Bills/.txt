@@ -1,0 +1,34 @@
+			  WELCOME TO MARRIAGE HALL
+
+	 Booking ID			 :		
+
+	 Customer No			 :		
+
+	 Customer Name			 :		
+
+************************************************************************
+			Booking and Payment Details
+************************************************************************
+
+	 Booking Date			 :		
+
+	 Function Time			 :		
+
+	 Hall Name			 :		
+
+	 Hall Limit			 :		
+
+	 Cooling Type			 :		
+
+	 Hall Price			 :		
+
+	Cooling Charge			 :		
+
+	 GST      			 :		
+
+	 Total Amount			 :		
+
+	 Paid Amount			 :		
+
+************************************************************************
+	 Total Due			 :		

@@ -1,0 +1,34 @@
+			  WELCOME TO MARRIAGE HALL
+
+	 Booking ID			 :		808204
+
+	 Customer No			 :		7440744369
+
+	 Customer Name			 :		Tarun choudhary
+
+************************************************************************
+			Booking and Payment Details
+************************************************************************
+
+	 Booking Date			 :		1/26/22
+
+	 Function Time			 :		Night
+
+	 Hall Name			 :		V1
+
+	 Hall Limit			 :		100
+
+	 Cooling Type			 :		AC
+
+	 Hall Price			 :		100000
+
+	Cooling Charge			 :		10000
+
+	 GST      			 :		19800.0
+
+	 Total Amount			 :		129800.0
+
+	 Paid Amount			 :		100000
+
+************************************************************************
+	 Total Due			 :		29800.0
